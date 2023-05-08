@@ -2,6 +2,10 @@
 
 A simple portfolio template for developer/designers built with React.
 
+### [live server]
+
+https://manojlakshmikanthportfolio.netlify.app/
+
 ### Features
 
 - Fully Responsive
