@@ -15,7 +15,7 @@ const introdata = {
     third: 'I develop web apps',
   },
   description:
-    'A passionate Full Stack Web Developer having an experience of building web applications with JavaScript| Reactjs| Nodejs| Express| MongoDB',
+    'A passionate Full Stack Web Developer with experience in building web applications with JavaScript| Reactjs| Nodejs| Express| MongoDB',
   your_img_url: bgImage,
 };
 // https://images.unsplash.com/photo-1647610229306-3906b8f72539?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1930&q=80
@@ -85,9 +85,42 @@ const education = [
 const dataportfolio = [
   {
     img: 'https://picsum.photos/400/200/?grayscale',
+    title: 'React Dashboard Website',
+    description:
+      'Contains details of energy data and charts integrated from Highcharts. Designed graph icons using Canva. The website features a light and dark theme.',
+    link: 'https://datavincidashboard.netlify.app/',
+    github: 'https://github.com/manoj-lakshmikanth/DataVinci',
+  },
+  {
+    img: 'https://picsum.photos/250/200/?grayscale',
+    title: 'MERN Stack NCR Form',
+    description:
+      'Consists of User and Approver’s portal with necessary details to report the error in the workpiece to approver. Achieved the objective to complete the project in couple of days.',
+    link: 'https://orcancrform.netlify.app/',
+    github: 'https://github.com/manoj-lakshmikanth/Orca-frontend',
+   
+  },
+  {
+    img: 'https://picsum.photos/400/300/?grayscale',
+    title: 'MERN Stack Trending Git Repositories',
+    description:
+      'Shows trending Git repositories with basic details like language, stars and forks. Fetches data from GitHub using cheerio and can be filtered according to date and language. Responsive and featured with light and dark theme.',
+    link: 'https://trendinggitrepositories.netlify.app/',
+    github: 'https://github.com/manoj-lakshmikanth/Trending-git-repo-frontend',
+  },
+  {
+    img: 'https://picsum.photos/300/400/?grayscale',
+    title: 'React Payment Page Clone',
+    description:
+      'Dynamic React page, which takes plan subscription as input and gives total price. Purpose was to clone the entire page with exact styling and components.To check the original image copy and paste this link in your browser (https://shrtco.de/5tLW1p)',
+    link: 'https://paymentpageclone.netlify.app/',
+    github: 'https://github.com/manoj-lakshmikanth/Edyoda',
+  },
+  {
+    img: 'https://picsum.photos/400/200/?grayscale',
     title: 'React URL Shortener',
     description:
-      'It shortens the lengthy URL from an API which is integrated.It also copies to the clipboard and once it is copied the color of the button changes. It fetches data from shrtco API.',
+      'Shortens lengthy URLs and copies to the clipboard, integrated using shrtco.de',
     link: 'https://manoj-lakshmikanth.github.io/URL-Shortener/',
     github: 'https://github.com/manoj-lakshmikanth/URL-Shortener',
   },
@@ -95,7 +128,7 @@ const dataportfolio = [
     img: 'https://picsum.photos/300/250/?grayscale',
     title: 'Resposive Weather App',
     description:
-      'It tells the current weather condition of any city around the world. It is responsive and was built with HTML/CSS. It fetches data from openweathermap.org.',
+      'Provides the current weather information of cities. Responsive and built with HTML & CSS, the website draws data from openweathermap.org.',
     link: 'https://manoj-lakshmikanth.github.io/weather-app/',
     github: 'https://github.com/manoj-lakshmikanth/weather-app',
   },
@@ -103,7 +136,7 @@ const dataportfolio = [
     img: 'https://picsum.photos/400/350/?grayscale',
     title: 'MERN Stack E-commerce Website',
     description:
-      'This is a basic fully functional E-commerce website. It has signup, sign in, add to cart, shipping and cart features. It was developed using MERN Stack tech stack.',
+      'Created a fully functional E-commerce website with signup, sign in, add to cart, shipping and cart features built using MERN Stack.',
     link: '#',
     github: 'https://github.com/manoj-lakshmikanth/',
   },
@@ -111,7 +144,7 @@ const dataportfolio = [
     img: 'https://picsum.photos/250/400/?grayscale',
     title: 'MERN Stack CRUD Application',
     description:
-      'It involves CRUD operations both in frontend and backend. Even this uses MERN Stack.It adds user and gets user details from backend and has login feature in it.',
+      'Involves CRUD operations both in frontend and backend. Even this uses MERN Stack.It adds user and gets user details from backend and has login feature in it.',
     link: '#',
     github: 'https://github.com/manoj-lakshmikanth/',
   },

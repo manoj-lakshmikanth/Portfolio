@@ -51,7 +51,7 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <a href="https://drive.google.com/file/d/1bMaABpzvQc6RJ0pHghKt0IMX909shcQs/view?usp=share_link">
+                  <a href="https://drive.google.com/file/d/1E1dMCdngxOp-yCs1MW0c_zzif1QKmUVu/view?usp=drive_link">
                     <div id="button_h" className="ac_btn btn">
                       Resume
                       <div className="ring one"></div>
